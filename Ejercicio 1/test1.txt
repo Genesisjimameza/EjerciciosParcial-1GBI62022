@@ -1,5 +1,6 @@
 cd Desktop/bioinformatica/CSB-master/unix/data/
 mkdir test1
+cd Desktop/bioinformatica/CSB-master/unix/data/test1
 touch test1.txt
 cp test1.txt test2.txt
 echo "Hola GBI6" > test2.txt
